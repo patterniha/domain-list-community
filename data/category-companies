@@ -1,8 +1,10 @@
 # This list contains Tech & Cyber companies and organizations outside China mainland.
 
+include:2gis
 include:acer
 include:adobe
 include:alibabacloud
+include:alphabet
 include:amazon
 include:amd
 include:anexia
@@ -12,10 +14,12 @@ include:atlassian
 include:att
 include:autodesk
 include:bandwagonhost
+include:beget
 include:blurams
 include:broadcom
 include:canon
 include:canva
+include:carrotquest
 include:chegg
 include:cisco
 include:cloudcone
@@ -24,13 +28,18 @@ include:comodo
 include:corel
 include:dell
 include:digitalocean
+include:dmit
 include:drweb
 include:duolingo
+include:envybox
 include:faronics
+include:genotek-ru
 include:giffgaff
 include:gigabyte
+include:gmo-internet
 include:godaddy
-include:google
+include:group-ib
+include:headhunter
 include:hetzner
 include:hinet
 include:hkbn
@@ -39,6 +48,7 @@ include:hpe
 include:hubblephone
 include:ibm
 include:ibkr
+include:ideco-ru
 include:inshot
 include:intel
 include:intuit
@@ -47,28 +57,39 @@ include:kakao
 include:kaspersky
 include:lg
 include:logitech
+include:louisvuitton
 include:mailru-group
+include:megafon
 include:meta
 include:microsoft
 include:mikrotik
+include:mindbox
 include:mindgeek
+include:motorola
 include:mozilla
 include:msi
+include:mts-ru
 include:musixmatch
 include:mxroute
 include:naver
 include:neuralink
+include:nic-ru
 include:nvidia
 include:openweather
 include:oracle
 include:panasonic
 include:pccw
+include:plex
+include:progress
 include:qnap
 include:qualcomm
 include:qwant
 include:razer
+include:regru
+include:rostelecom
 include:salesforce
 include:samsung
+include:selectel
 include:skyperfect
 include:smartone
 include:snap
@@ -78,22 +99,27 @@ include:spaceship
 include:st
 include:synology
 include:symantec
-include:tailscale
+include:t2-ru
 include:theboringcompany
+include:timeweb
 include:tonec
 include:uber
 include:ubiquiti
+include:ucoz
 include:verisign
 include:verizon
 include:vultr
 include:westerndigital
 include:wisekey
+include:xtom
 include:yahoo
 include:yandex
+include:zscaler
 
 # Remote Control
 include:category-remote-control
 
 auth0.com
 civitai.com
+fussengroup.com @cn
 porkbun.com

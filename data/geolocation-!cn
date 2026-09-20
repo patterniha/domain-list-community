@@ -3,22 +3,20 @@
 # AI Chat
 include:category-ai-!cn
 
-# Anime, Comics & Games
-include:category-acg
-
 # Advertisment & Analytics
 include:pubmatic
 include:taboola
 
+fullstory.com
+scorecardresearch.com
+
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
 include:category-anticensorship
+include:category-proxy-tunnels
 
 # Art & Design & Photography
-include:artstation
 include:dribbble
 include:dyna
-include:flickr
-include:fonts
 include:fontsinuse
 include:gettyimages
 include:glyphs
@@ -32,6 +30,7 @@ include:typography
 include:webtype
 
 bunka.go.jp
+uxthemes.com
 
 # Automobile
 include:bmw
@@ -41,25 +40,18 @@ include:volvo
 
 # Bank & Finance
 include:category-finance
-include:dowjones
 include:mastercard
 include:paypal
 include:softbank
-include:stripe
 include:visa
+## アプリペイ
+app-pay.jp
 
 # CDN companies & Services
-include:akamai
+include:category-cdn-!cn
+
 include:awempire
-include:cdn77
-include:cloudflare
-include:fastly
-include:imgix
-include:limelight
-include:pagecdn
-include:quantil
 include:scaleflex
-include:stackpath
 include:wistia
 
 # Certificate authorities
@@ -90,9 +82,7 @@ include:edx
 include:egghead
 include:embl
 include:freecodecamp
-include:kaggle
 include:khanacademy
-include:knovel
 include:laracasts
 include:libgen
 include:lifewire
@@ -110,16 +100,22 @@ include:udemy
 include:w3schools
 include:zotero
 
+ankiuser.net
+ankiweb.net
 chemequations.com # 线上化学方程式！
+divdyn.com
+geogebra.org
+wolframalpha.com
 
 # Entertainment & Games & Music & Podcasts & Videos
 include:category-entertainment
 
 # File & Image & Video hosting
+include:category-netdisk-!cn
+
 include:0x0
 include:casimages
 include:cloudinary
-include:dropbox
 include:gfycat
 include:imagebam
 include:imagecurl
@@ -127,20 +123,15 @@ include:imageshack
 include:imagetwist
 include:imgbb
 include:imgur
-include:pikpak
 include:pixhost
 include:postimages
 include:pstorage
 include:rumble
 include:streamable
-include:terabox
 
 # Forums & Social network
 include:category-forums
 include:category-social-media-!cn
-
-# IPFS
-include:category-ipfs
 
 # Media & News & Press
 include:category-media
@@ -152,17 +143,17 @@ include:category-orgs
 # Porn
 include:category-porn
 
-# Religion
-include:falungong
-
 # Services & Softwares
 include:category-android-app-download
 include:category-antivirus
 include:category-browser-!cn
+include:category-consent-management
 include:category-enhance-gaming
 include:category-mobile-repair
 include:category-ntp
 include:category-password-management
+include:category-urlshortner
+include:category-web-archive
 include:decryptipastore # iOS
 
 include:rsshub
@@ -171,12 +162,10 @@ include:rsshub-3rd
 include:accuweather
 include:adblock
 include:adblockplus
-include:addthis
 include:addtoany
 include:adguard
 include:aptoide
 include:arphic
-include:bitly
 include:blender
 include:brightcove
 include:buymeacoffee
@@ -184,7 +173,6 @@ include:chatango
 include:cloudconvert
 include:contentful
 include:cuttly
-include:digitalocean
 include:disqus
 include:duckduckgo
 include:easylist
@@ -194,6 +182,7 @@ include:evernote
 include:faststone
 include:feedly
 include:figma
+include:flyio
 include:gofundme
 include:gravatar
 include:hcaptcha
@@ -207,11 +196,9 @@ include:jwplayer
 include:kindle4rss
 include:kodi
 include:liberapay
-include:linguee
 include:localizejs
 include:madshi
 include:mapbox
-include:mega
 include:netlify
 include:notion
 include:okaapps
@@ -230,8 +217,6 @@ include:reurl
 include:sb
 include:setapp
 include:sharethis
-include:shopify
-include:shorturl
 include:slideshare
 include:sourceforge
 include:squareup
@@ -241,35 +226,53 @@ include:svp
 include:test-ipv6
 include:tex
 include:tidelift
-include:tinyurl
 include:trello
 include:tumblr
 include:tutanota
+include:twilio
 include:vercel
-include:webflow
 include:wix
-include:wordpress
 include:zendesk
 include:zeplin
 include:zoho
 include:zoom
 
-biliplus.com # BiliPlus
-
-# Graphing for Science and Engineering
-originlab.com
-
-# Online LaTeX Editor
+## Aurora Open Source Software (https://gitlab.com/AuroraOSS)
+auroraoss.com
+## BiliPlus
+biliplus.com
+## Calibre
+calibre-ebook.com
+## Canny (Customer Feedback Management)
+canny.io
+## CataBoom
+cataboom.com
+## CCleaner
+ccleaner.com
+## Dynatrace
+dynatrace.com
+## FamilySearch
+familysearch.org
+## LanguageTool (Grammar Checker)
+languagetool.org
+## Greasy Fork
+greasyfork.org
+## Online LaTeX Editor
 cloudlatex.io
 overleaf.com
+## OriginLab (Graphing for Science and Engineering)
+originlab.com
+## OsmAnd
+osmand.net
+## Xiaomi Flash (not affiliated with the official Xiaomi)
+xiaomiflash.com
 
-# Aurora Open Source Software (https://gitlab.com/AuroraOSS)
-auroraoss.com
-
-# CookiePro, provides cookies and tracking
-cookiepro.com
-cookielaw.org
-onetrust.com
+## Translators & Dictionaries
+include:linguee
+collinsdictionary.com
+ldoceonline.com
+immersivetranslate.com # 沉浸式翻译 (国际版)
+imtintl.com # 沉浸式翻译 (国际版)
 
 # Software development
 include:category-dev
@@ -284,9 +287,8 @@ include:demonoid
 include:nyaa
 include:piratebay
 include:rarbg
-
-# User scripts
-greasyfork.org
+dmhy.org
+rutor.info
 
 # VPN services
 include:category-vpnservices
@@ -302,11 +304,11 @@ include:wikimedia
 
 atwiki.jp
 touhouwiki.net
+wiki.gg
 
 # Others
 include:avaxhome
-include:dlsite
-include:espressif
+include:espressif @!cn
 include:familymart
 include:fzdm
 include:hkedcity
@@ -314,7 +316,6 @@ include:huanghuagang
 include:lavteam
 include:mcdonalds
 include:rb
-include:reagroup
 include:scenesource
 include:starbucks
 include:tsquare
@@ -322,5 +323,6 @@ include:windy
 include:xdty
 include:xingrz
 
-# 沉浸式翻译
-immersivetranslate.com
+avermedia.com
+sinyalee.com
+zhangzhehan.net

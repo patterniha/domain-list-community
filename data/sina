@@ -1,11 +1,11 @@
-include:sina-ads
+# TLDs
+sina
+weibo
+xn--9krt00a # 微博
 
 97973.com
-hk.weibo.com @!cn
-my.weibo.com @!cn
-overseas.weibo.com @!cn
+krcom.cn
 picself.cn
-sg.weibo.com @!cn
 sina.cn
 sina.com
 sina.com.cn
@@ -17,15 +17,47 @@ sinaimg.com
 sinajs.cn
 sinajs.com
 t.cn
-th.weibo.com @!cn
-tw.weibo.com @!cn
-us.weibo.com @!cn
 videoself.cn
-wbimg.com
 wbimg.cn
+wbimg.com
 wcdn.cn
 weibo.cn
 weibo.com
 weibo.com.cn
 weibocdn.com
+weibopay.com
 xhaiwai.com
+
+hk.weibo.com @!cn
+my.weibo.com @!cn
+overseas.weibo.com @!cn
+sg.weibo.com @!cn
+th.weibo.com @!cn
+tw.weibo.com @!cn
+us.weibo.com @!cn
+
+# Ads/tracking
+ad.sina.com.cn @ads
+ad.us.sinaimg.cn @ads
+adbox.sina.com.cn @ads
+adimg.mobile.sina.cn @ads
+adimg.uve.weibo.com @ads
+ads.sina.com @ads
+alitui.weibo.com @ads
+beacon.sina.com.cn @ads
+biz.weibo.com @ads
+click.uve.mobile.sina.cn @ads
+click.uve.weibo.com @ads
+log.mix.sina.com.cn @ads
+log.sina.cn @ads
+log2.sina.cn @ads
+mixer.sina.cn @ads
+p4p.sina.com.cn @ads
+rs.sinajs.cn @ads
+sa.sina.cn @ads
+sbeacon.sina.com.cn @ads
+sdkclick.mobile.sina.cn @ads
+slog.sina.cn @ads
+slog.sina.com.cn @ads
+wapwbclick.mobile.sina.cn @ads
+wbclick.mobile.sina.cn @ads

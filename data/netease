@@ -1,5 +1,3 @@
-include:netease-ads
-
 126.com
 126.link
 126.net
@@ -16,8 +14,10 @@ include:netease-ads
 166.net
 188.com
 321fenx.com
+easebar.com @!cn
 haowu.link
 icourse163.org
+kada.com
 lf126.net
 lf127.net
 lofter.com
@@ -30,8 +30,30 @@ qiyukf.com
 qiyukf.net
 qiyukf.net.cn
 static163.net
+weiyang.cn
 ydstatic.com
 yeah.net
 youdao.com
+youdaoads.com @ads
+yunxindns.com
 yunxinfw.com
 zhuanzfx.com
+
+# 永劫无间
+yjwujian.cn
+# 燕云十六声
+yysls.cn
+
+# Ads/tracking
+a.youdao.com @ads
+admusicpic.music.126.net @ads
+ads.music.126.net @ads
+analytics.163.com @ads
+crash.163.com @ads
+crashlytics.163.com @ads
+g.163.com @ads
+iadmat.nosdn.127.net @ads
+iadmatapk.nosdn.127.net @ads
+iadmusicmat.music.126.net @ads
+iadmusicmatvideo.music.126.net @ads
+sentry.music.163.com @ads

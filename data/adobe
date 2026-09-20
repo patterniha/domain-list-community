@@ -1,5 +1,4 @@
 include:adobe-activation
-include:adobe-ads
 include:typekit
 
 10xfotolia.com
@@ -49,7 +48,6 @@ authorxml.com
 businesscatalyst.com
 ccnsite.com
 ccpsx.com
-demdex.net
 dollarfotoclub.com
 dollarphotoclub.com
 dollarphotosclub.com
@@ -142,3 +140,8 @@ scene7.com
 
 # Adobe Stats IO
 adobestats.io
+
+# Ads/tracking
+advertising.adobe.com @ads
+demdex.net @ads
+tubemogul.com @ads

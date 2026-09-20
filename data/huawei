@@ -3,14 +3,17 @@ include:huaweicloud
 
 abhouses.com
 agconnect.link
+chaspark.com
 dbank.com
 dbankcdn.cn
 dbankcdn.com
 dbankcloud.cn
 dbankcloud.com
+dbankcloud.ru @!cn
 dbankedge.cn
 dbankedge.net
 hicloud.com
+hima.auto
 huawei.cn
 huawei.com
 huawei.com.cn
@@ -18,11 +21,17 @@ huaweiacad.com
 huaweiief.cn
 huaweiief.com
 huaweistatic.com
+hwad.net
 hwccpc.cn
 hwccpc.com
 hwht.cn
 hwocloud.com
 hwtrip.com
+petalmail.com
+petalmaps.com
 shanhaitujian.com
 vmall.com
 vmallres.com
+
+# Tracking
+domain:dt.dbankcloud.ru @ads

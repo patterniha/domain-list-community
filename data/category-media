@@ -26,9 +26,9 @@ include:ft
 include:ftv
 include:gannett
 include:globalvoices
+include:globo
 include:guo
 include:hketgroup
-include:hkopentv
 include:huffpost
 include:icable
 include:infowars
@@ -47,6 +47,7 @@ include:nbcuniversal
 include:neowin
 include:newscorp
 include:newsmax
+include:nhk
 include:nikkan-gendai
 include:nikkei
 include:now
@@ -54,6 +55,8 @@ include:nytimes
 include:oan
 include:realclear
 include:rferl
+include:rossiyasegodnya
+include:rt
 include:rthk
 include:sankei
 include:scmp
@@ -111,7 +114,9 @@ hkcnews.com
 hkej.com
 hkgpao.com
 hongkongfp.com
+infoq.com
 inmediahk.net
+inquirer.net
 inside.com.tw
 itmedia.co.jp
 jfengtime.com
@@ -120,6 +125,7 @@ limedia.tw
 localpresshk.com
 ltsports.com.tw
 macaodaily.com
+maidonanews.jp
 mdnkids.com
 mirrormedia.com.tw
 mirrormedia.mg
@@ -139,7 +145,6 @@ realvision.com
 rfa.org
 rfi.fr
 rsf.org
-rt.com
 rtings.com
 shuziyimin.org
 singpao.com.hk
@@ -158,6 +163,7 @@ tnntoday.com
 tvbs.com.tw
 tvmost.com.hk
 twgreatnews.com
+twreporter.org
 unwire.hk
 upmedia.mg
 vjmedia.com.hk

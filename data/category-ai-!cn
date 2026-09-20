@@ -4,13 +4,20 @@ include:cerebras
 include:comfy
 include:cursor
 include:elevenlabs
+include:envato
+include:github-copilot
 include:google-deepmind
 include:groq
 include:huggingface
+include:jetbrains-ai
+include:liveperson
+include:manus
 include:openai
 include:perplexity
 include:poe
+include:windsurf
 include:xai
+include:youmind
 
 # CodeRabbit
 coderabbit.ai
@@ -20,19 +27,58 @@ coderabbit.gallery.vsassets.io
 cohere.ai
 cohere.com
 
+# Copilot
+copilot-stg.com
+copilot.cloud.microsoft
+copilot.com
+copilot.microsoft.com
+
+# DeepWiki
+deepwiki.com
+deepwiki.org
+
 # Jasper
 clipdrop.co
 jasper.ai
 
+# Kimi/Moonshot
+kimi.ai
+moonshot.ai
+
+agentclientprotocol.com
+anythingllm.com
+arena.ai
 chutes.ai
-copilot.microsoft.com
+clawhub.ai
+crewai.com
 devin.ai
 diabrowser.com
+diabrowser.engineering
 dify.ai
+dreamgen.com
 duck.ai
 gateway.ai.cloudflare.com
+h2o.ai
 kiro.dev
+langchain.com
+lmstudio.ai
+lovart.ai
 meta.ai
+midjourney.com
+minimax.io
 mistral.ai
+mozilla.ai
+notegpt.io
+novelai.net
+ollama.com
 openart.ai
+openclaw.ai
 openrouter.ai
+openspec.dev
+plannotator.ai
+qoder.com
+sider.ai
+spicywriter.com
+talkai.info
+tapnow.ai
+tripo3d.ai

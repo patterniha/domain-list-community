@@ -1,5 +1,6 @@
 # References:
 # https://icannwiki.org/Country_code_top-level_domain
+# https://www.iana.org/domains/root/db
 # https://www.101domain.com/branded_domains.htm
 
 ## DO NOT RE-INTRODUCE!
@@ -18,6 +19,7 @@
 # xn--j6w193g  # 香港 Hong Kong SAR, People's Republic of China
 
 include:google-registry-tld
+include:tld-ru
 
 # Used by U.S. federal government
 gov
@@ -201,7 +203,6 @@ pl # Poland
 pm # Saint-Pierre and Miquelon
 pn # Pitcairn Islands
 pr # Puerto Rico
-ps # Gaza Strip (Gaza)
 ps # Palestine
 pt # Portugal
 py # Paraguay
@@ -209,7 +210,6 @@ qa # Qatar
 re # Réunion Island
 ro # Romania
 rs # Serbia
-ru # Russia
 rw # Rwanda
 sa # Saudi Arabia
 sb # Solomon Islands
@@ -225,11 +225,9 @@ sl # Sierra Leone
 sm # San Marino
 sn # Senegal
 so # Somalia
-so # Somaliland
 sr # Suriname
 ss # South Sudan
 st # São Tomé and Príncipe
-su # The Union of Soviet Socialist Republic
 sv # El Salvador
 sx # Sint Maarten
 sy # Syria
@@ -329,7 +327,6 @@ okinawa    # Okinawa, Japan
 osaka      # Osaka, Japan
 ryukyu     # Ryukyu Islands, Japan
 taipei     # Taipei, Republic of China (Taiwan)
-tatar      # Tatar peoples and places
 tokyo      # Tokyo, Japan
 yokohama   # Yokohama, Japan
 
@@ -358,7 +355,6 @@ istanbul   # İstanbul, Turkey
 koeln      # Cologne, Germany
 london     # London, United Kingdom
 madrid     # Madrid, Spain
-moscow     # Moscow, Russia
 nrw        # North Rhine-Westphalia, Germany
 paris      # Paris, France
 ruhr       # Ruhr, Germany
@@ -442,10 +438,8 @@ woodside # Woodside Petroleum Limited
 zara # Inditex, SA
 
 # Miscellaneous Domains
-africamagic # Electronic Media Network Limited
 agakhan # Aga Khan Foundation
 akdn # Aga Khan Foundation
-bar # A place which provide liquor
 bharti # Bharti Enterprises
 bingo # Bingo
 casa # Casa (Home)
@@ -467,10 +461,8 @@ shell # Shell Information Technology International Inc
 shia # Shia Muslim community
 style # though the comment actually seems to be about .tattoo
 sucks # Vox Populi Registry
-tatar # Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"
 tattoo # Tattoo
 vana # Scripps Networks Interactive, Inc.
-virgin # Virgin Enterprises Limited
 vodka # Alcohol
 wine # Alcohol
 wme # William Morris Endeavor Entertainment, LLC
@@ -539,7 +531,6 @@ xn--h2breg3eve  #  भारतम् India
 xn--h2brj9c8c  #  भारोत India
 xn--mgbgu82a  #  ڀارت India
 xn--mgba3a4f16a  #  ایران Iran
-xn--mgba3a4fra  #  ايران Iran
 xn--mgbtx2b  #  عراق Iraq
 xn--mgbayh7gpa  #  الاردن Jordan
 xn--80ao21a  #  қаз Kazakhstan
@@ -557,7 +548,6 @@ xn--mgbai9azgqp6j  #  پاکستان Pakistan
 xn--mgbai9a5eva00b  #  پاكستان Pakistan
 xn--ygbi2ammx  #  فلسطين Palestine
 xn--wgbl6a  #  قطر Qatar
-xn--p1ai  #  рф Russian Federation
 xn--mgberp4a5d4ar  #  السعودية Saudi Arabia
 xn--mgberp4a5d4a87g  #  السعودیة Saudi Arabia
 xn--mgbqly7c0a67fbc  #  السعودیۃ Saudi Arabia
@@ -746,6 +736,7 @@ amazon # Technology Domains
 aol # AOL Inc.
 aws # Amazon
 azure # Microsoft
+bing # Microsoft
 chrome # Google
 cisco # Cisco Technology, Inc.
 dclk # Google
@@ -769,7 +760,6 @@ gmx # 1&1 Mail & Media GmbH
 godaddy # GoDaddy
 goog # Google
 google # Google
-goo # Google
 guge # Google
 hangout # Google
 hkt # PCCW-HKT DataCom Services Limited
@@ -806,7 +796,6 @@ richardli # Pacific Century Asset Management (HK) Limited
 ricoh # Ricoh Company, Ltd.
 rogers # Rogers Communications Partnership
 sakura # Sakura Internet Inc.
-sas # Scandinavian Airlines System Group
 sfr # Societe Francaise du Radiotelephone
 shaw # Shaw Cablesystems G.P.
 skype # Microsoft

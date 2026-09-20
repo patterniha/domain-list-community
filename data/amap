@@ -1,12 +1,18 @@
-include:amap-ads
-
 a-map.cn
 a-map.co
 a-map.link
 a-map.vip
 acloudrender.com
 amap.com
+amap.net
 amapauto.com
 anav.com
 autonavi.com
 gaode.com
+
+# Ads/tracking
+adashx.ut.amap.com @ads
+dualstack-logs.amap.com @ads
+logs.amap.com @ads
+optimus-ads.amap.com @ads
+v6-adashx.ut.amap.com @ads

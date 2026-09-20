@@ -10,21 +10,22 @@ taobao
 # All .tmall domains
 tmall
 
-include:9game
-include:alibaba-ads
 include:alibabacloud
+include:aligames
 include:aliyun
 include:aliyun-drive
+include:amap
 include:cainiao
 include:dingtalk
 include:eleme
+include:shuqi
 include:teambition
 include:uc
 include:umeng
 include:youku
 
-25pp.com
 56che.com
+88cha.com
 95095.com
 ali-health.com
 aliapp.org
@@ -32,17 +33,24 @@ alibaba-inc.com
 alibaba.com
 alibabacapital.com
 alibabachengdun.com
+alibabachengdun.net
 alibabacorp.com
+alibabadesign.com
 alibabadoctor.com
+alibabafonts.com
+alibabafoundation.com
 alibabafuturehotel.com
 alibabagroup.com
+alibabapictures.com
 alibabaplanet.com
 alibabaued.com
 alibabausercontent.com
 alifanyi.com
-aligames.com
+aligenie.com
+alihealth.cn
 alihealth.com.cn
 alihealth.hk @!cn
+alihive.com
 aliimg.com
 alikmd.com
 alimama.cn
@@ -51,6 +59,7 @@ alimebot.com
 alimei.com
 alimmdn.com
 alios.cn
+alipay-eco.com
 alipay.cn
 alipay.com
 alipay.com.cn
@@ -68,6 +77,7 @@ aliwork.com
 alixiaomi.com
 alizhaopin.com
 alyms.cn
+alysm.cn
 asczwa.com
 asczxcefsv.com
 asmlink.cn
@@ -86,45 +96,55 @@ dongting.com
 dratio.com
 emas-poc.com
 gongyi.xin
+hupan.com
+hzchengdun.com
+hzchengdun.net
 ialicdn.com
 iconfont.cn
 ics.design
 imgcook.com
 jhgtgb.com
+jiyoujia.com
 kanbox.com
 lazada.com
 liangxinyao.com
 m-now.cn
 maitix.com
+mappcloud.com
 mdeer.com
 mei.com
 miaostreet.com
+miaoya.cn
+mmstat.com
 mshare.cc
 nic.xin
 philanthropy.xin
 phpwind.com
 phpwind.net
+pp.cn
 qingtingtrip.com
 rexpos.cn
 saee.org.cn
+shejijia.com
 shenjing.com
-shuqi.com
-shuqireader.com
 sparenode.com
 supet.com
 tanx.com
 ttpod.com
-wandoujia.com
 xin.xin
 xinlingshou.cn
+xixikf.cn
 yowhale.com
 yunos-inc.com
 yunos.com
 yushanfang.com
+zimgs.cn
 zuodao.com
 
 # AliExpress
 ae-rus.net @!cn
+aedns.ru @!cn
+aeplatform.ru @!cn
 aestatic.net @!cn
 aliexpress.com
 aliexpress.ru @!cn
@@ -160,9 +180,11 @@ antgroup-inc.cn
 
 # 神马搜索
 sm.cn
+yisou.com
 
 # 淘宝
 1688.com
+duanqu.com
 etao.com
 juhuasuan.com
 lingshoujia.com
@@ -174,11 +196,13 @@ taobao.org
 taobaocdn.com
 taobizhong.com
 taopiaopiao.com
+taotian.com
 tb.cn
 tbcache.com
 tbcdn.cn
 tburl.in
 tmall.com
+tmall.hk @!cn
 tmall.ru @!cn
 tmalltv.com
 tmjl.ai
@@ -196,9 +220,6 @@ fliggy.com
 fliggy.hk @!cn
 iuynfg.com
 
-# 高德地图
-include:amap
-
 # 虾米音乐
 xiami.com
 xiami.fm
@@ -206,6 +227,13 @@ xiami.net
 
 # 口碑
 koubei.com
+
+# 豌豆荚
+wandoujia.com
+wdjimg.com
+
+# PP助手
+25pp.com
 
 # 吱声网
 zhisheng.com
@@ -228,3 +256,29 @@ lydaas.net
 lydass.cn
 lydass.com.cn
 lydass.net
+
+# Ads/tracking
+a.alimama.cn @ads
+adash-c.m.taobao.com @ads
+adash-c.ut.taobao.com @ads
+adash.m.taobao.com @ads
+adashbc.m.taobao.com @ads
+adashbc.ut.taobao.com @ads
+adashx.m.taobao.com @ads
+adashx4ae.ut.taobao.com @ads
+adashx4yt.m.taobao.com @ads
+adashxgc.ut.taobao.com @ads
+adsh.m.taobao.com @ads
+adtrack.quark.cn @ads
+c-adash.m.taobao.com @ads
+fourier.taobao.com @ads
+g.click.taobao.com @ads
+h-adashx.ut.taobao.com @ads
+h-adashx4yt.ut.taobao.com @ads
+m-adash.m.taobao.com @ads
+marketing.alibaba.com @ads
+nbsdk-baichuan.taobao.com @ads
+retcode.taobao.com @ads
+tns.simba.taobao.com @ads
+track.lc.quark.cn @ads
+v6-adashx.ut.taobao.com @ads

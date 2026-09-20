@@ -1,12 +1,13 @@
-include:boc
-include:ccb
-include:citic
-include:cmb
+include:boc @-!cn
+include:ccb @-!cn
+include:citic @-!cn
+include:cmb @-!cn
 include:hsbc-cn
-include:icbc
+include:icbc @-!cn
 include:unionpay
 
 abchina.com
+bankcomm.cn
 bankcomm.com
 bankofbeijing.com.cn
 bosc.cn
@@ -32,6 +33,8 @@ mybank.cn
 # 温州民商银行股份有限公司 WENZHOU MINSHANG BANK CO.,LTD
 ms-bank.cn
 # 深圳前海微众银行股份有限公司 WeBank Co.,Ltd
+tctpwebankcdn.net
+wbweilicai.com
 webank.com
 webankcdn.net
 # 湖南三湘银行股份有限公司 BANK OF SANXIANG

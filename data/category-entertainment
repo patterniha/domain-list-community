@@ -1,5 +1,7 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+include:category-acg
+include:category-entertainment-ru
 include:category-games-!cn
 include:category-novel
 
@@ -7,6 +9,8 @@ include:7tv
 include:abema
 include:amc
 include:anime
+include:apple-music
+include:apple-podcasts
 include:apple-tvplus
 include:archiveofourown
 include:attwatchtv
@@ -14,28 +18,35 @@ include:bahamut
 include:bandcamp
 include:bangumi
 include:boomerang
+include:bushiroad
 include:catchplay
+include:chesscom
 include:copymanga
 include:dailymotion
+include:dandanplay
 include:dandanzan
 include:dazn
+include:deezer
 include:deviantart
 include:discoveryplus
 include:disney
 include:dlsite
 include:ficbook
+include:formula1
 include:gimy
 include:goodreads
 include:hamivideo
 include:hbo
-include:hulu
 include:imdb
+include:itunes
 include:iyf
+include:kick
 include:kingkonglive
 include:kkbox
 include:kktv
 include:lastfm
 include:litv
+include:likee
 include:manhuagui
 include:metacritic
 include:mubi
@@ -44,17 +55,18 @@ include:mytvsuper
 include:netflix
 include:niconico
 include:now
-include:okko
 include:olevod
+include:openrec
 include:pbs
 include:pixiv
 include:plutotv
 include:pocketcasts
 include:primevideo
+include:radiko
 include:roku
-include:rutube
 include:showtimeanytime
 include:sling
+include:sonemic
 include:sonypictures
 include:soundcloud
 include:spotify
@@ -65,6 +77,7 @@ include:tmdb
 include:tvdb
 include:tver
 include:twitch
+include:unext
 include:vimeo
 include:visualarts
 include:viu
@@ -86,6 +99,7 @@ joox.com
 kpacg.com
 linetv.tw
 megaphone.fm
+megogo.net
 mikanani.me
 moov.hk
 odysee.com
@@ -93,16 +107,19 @@ omobi.cc
 oranum.com
 overcast.fm
 qobuz.com
+sendvid.com
 syosetu.com
+unsplash.com
 weverse.io
 yande.re
 
 # Apple Podcast
-amp-api.podcast.apple.com
-bag.itunes.apple.com
-bookeeper.itunes.apple.com
+podcast.apple.com
 
 # Entertainment oriented media
+# This section references the "Source Considerations" page on the Chinese Wikipedia:
+# - https://zh.wikipedia.org/wiki/WikiProject:电子游戏/来源考量
+# - https://zh.wikipedia.org/wiki/WikiProject:ACG/來源考量
 ## 4Gamer.net
 4gamer.net
 ## 4Gamers
@@ -115,22 +132,28 @@ appget.com
 appmedia.jp
 ## Automaton
 automaton-media.com
+## 橙心社
+cxacg.com
 ## 电faminicogamer
 denfaminicogamer.jp
 ## ASCII Media Works
 dengekionline.com
 ## E-ROAD
 eroge-road.com
+## esports.gg
+esports.gg
 ## ファミ通
 famitsu.com
+## GameApps.HK
+gameapps.hk
 ## 遊戲基地
 gamebase.com.tw
-## gamebiz
-gamebiz.jp
 ## IID, Inc.
 gamebusiness.jp
 gamespark.jp
 inside-games.jp
+## Game Focus
+gamefocus.co.kr
 ## GameMeca
 gamemeca.com
 ## Gameover有機網
@@ -142,6 +165,8 @@ onlinegamer.jp
 greatgame.asia
 ## HobbiGame
 hobbigame.com
+## ゲーム文化保存研究所
+igcc.jp
 ## IGN
 ign.com
 ignimg.com
@@ -153,18 +178,30 @@ mediaclip.jp
 maedahiroyuki.com
 ## MANTANWEB
 mantan-web.jp
+## モエデジ
+moedigi.com
 ## Moepedia
 moepedia.net
+## マイナビニュース
+mynavi.jp
+## Openbook阅读通
+openbook.org.tw
 ## QooApp
 qoo-app.com
 ## Real Sound
 realsound.jp
+## れポたま！
+repotama.com
 ## Saiga NAK
 saiganak.com
+## SQOOL
+sqool.net
 ## The Games Daily
 tgdaily.co.kr
 ## Thisisgame
 thisisgame.com
+## 玩具人
+toy-people.com
 ## Wanuxi
 wanuxi.com
 ## よろず〜

@@ -1,12 +1,10 @@
-include:bytedance-ads
-
-#include:bytedance-ai-!cn # not serving for cn
+include:bytedance-ai-!cn # not serving for cn
 include:doubao
 include:douyin # douyin, huoshan and qishuimusic inside
 include:fqnovel
 include:juejin
 include:lark # feishu is included in lark
-include:tiktok
+include:tiktok # not serving for cn
 include:trae
 include:volcengine
 
@@ -23,6 +21,7 @@ ali-api-test.net
 ali-gtm-01.net
 ali-gtm-pressure.com
 ali-restore.net
+applogcdn.com
 arco.design
 baikevod.com
 bdactivity.com
@@ -131,6 +130,7 @@ byteoversea.net @!cn
 byteq5k.com
 byteq8u.net
 bytescm.com
+bytespeech.com
 bytesslb.net
 bytetcc.com
 bytetech.info
@@ -138,6 +138,7 @@ bytetos.com
 bytetraffic.net
 bytetstatic.com
 bytetstatic.net
+byteurl.cn
 bytevalk.com
 bytevcloudapi.com
 bytevcloudvod.com
@@ -151,6 +152,7 @@ draftstatic.com
 druid.vip
 fedlearner.net
 feelgood.cn
+gcloudcache.com
 gslbdns.com
 gslbdns.net
 huaxiong.com
@@ -167,6 +169,7 @@ jokecommunity.com
 jokecommunity.net
 jstti.com
 jtamac.com
+letsign.com
 livecdnstatic.com
 local-ip.online
 luckysf.net
@@ -188,6 +191,7 @@ pstatp.com
 qingfuwucdn.net
 qualitycloud.top
 samasty.com
+searchpstatp.com
 searchstatic.com
 searchtoutiaolive.com
 shidianguji.com
@@ -239,7 +243,10 @@ volcdns-test.com
 volcdns-test.net
 voleai.com
 wtturl.cn
+xiaohe.cn
+xingtu.cn
 xsgtvacct.com
+yhgfb-cn-static.com
 zijieapi.cn
 zijieapi.com
 zijieapi.net
@@ -265,8 +272,21 @@ zjbyte.net
 zjcdn.com
 zjfcdn.com
 zjgslb.com
+zlinkurl.cn
 
 full:bytedance.map.fastly.net @!cn
+
+# 即梦/剪映
+jianying.com
+jimeng.com
+vlabimg.com
+vlabstatic.com
+vlabvod.com
+
+# CapCut
+capcut.cn
+capcut.com @!cn
+capcutcdn-us.com @!cn
 
 # 今日头条
 toutiao.com
@@ -334,20 +354,31 @@ ppxstatic.com
 ppxvod.com
 xiaoxiaapi.com
 
+# 朝夕光年
+dailygn.com
+nvsgames.cn
+
 # 上海格物致品
-douyinec.com
+buydouke.com
 ecombdapi.com
+ecombdimg.com
 ecombdstatic.com
+ecombdvod.com
 jinritemai.com
 
-# faceu
+# FaceU激萌
 faceu.com
+faceu.mobi
 
-# 轻颜相机
+# 轻颜相机/可颂
+kesong.co
 ulikecam.com
 
 # RsProxy 镜像
 rsproxy.cn
+
+# 巨量引擎
+oceanengine.com
 
 # 半次元 (dead)
 # 沪ICP备2021005742号
@@ -358,3 +389,33 @@ rsproxy.cn
 #bcysnssdk.com
 #bcystatic.com
 #bcyvod.com
+
+# Ads/tracking
+ad.toutiao.com @ads
+bds.snssdk.com @ads
+byteadverts.com @ads
+csjplatform.com @ads
+ctobsnssdk.com @ads
+dig.bdurl.net @ads
+extlog.snssdk.com @ads
+i.snssdk.com @ads
+log.zijieapi.com @ads
+mcs.snssdk.com @ads
+pangle.cn @ads
+pangolin-dsp-toutiao-b.com @ads
+pangolin-dsp-toutiao.com @ads
+pangolin-hl.snssdk.com @ads
+pangolin-lf.snssdk.com @ads
+pangolin-lq.snssdk.com @ads
+pangolin-sdk-toutiao-b.com @ads
+pangolin-sdk-toutiao.com @ads
+pangolin-sdk-toutiao1.com @ads
+pangolin.snssdk.com @ads
+panplayable-toutiao-b.com @ads
+panplayable-toutiao.com @ads
+pglstatp-sdk-toutiao.com @ads
+pglstatp-snssdk-toutiao.com @ads
+pglstatp-toutiao-b.com @ads
+pglstatp-toutiao.com @ads
+sf3-ttcdn-tos.pstatp.com @ads
+shoppingads.cn @ads

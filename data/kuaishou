@@ -1,18 +1,36 @@
-include:kuaishou-ads
+include:acfun
 
+eckwai.com
 ecukwai.com
 gifshow.com
 inkuai.com
 inkwai.com
 ksapisrv.com
 kskwai.com
+kspkg.com
 kuaishou.cn
 kuaishou.com
 kuaishouapps.com
 kuaishoupay.com
 kuaishouzt.com
 kwaicdn.com
+kwaishop.com
+kwaixiaodian.com
+kwaiying.com
 kwaizt.com
 kwimgs.com
+mojidoc.com
+qingque.cn
+viviv.com
+wskwai.com
 wsukwai.com
 yximgs.com
+
+# Ads/tracking
+adbkwai.com @ads
+adkwai.com @ads
+adukwai.com @ads
+e.kuaishou.cn @ads
+e.kuaishou.com @ads
+full:log-sdk.gifshow.com @ads
+full:wlog.kuaishou.com @ads

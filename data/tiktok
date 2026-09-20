@@ -1,5 +1,4 @@
 bytedapm.com @!cn
-byteoversea.com @!cn
 muscdn.com @!cn
 musical.ly @!cn
 tik-tokapi.com @!cn
@@ -20,12 +19,22 @@ tiktokv.eu @!cn
 tiktokv.us @!cn
 tiktokw.eu @!cn
 tiktokw.us @!cn
+ttcdn-us.com @!cn
 ttlivecdn.com @!cn
 ttoverseaus.net @!cn
 ttwstatic.com @!cn
 
+tiktokcdn-us.com.edgesuite.net @!cn
+tiktokcdn.com.akamaized.net @!cn
+tiktokcdn.com.edgesuite.net @!cn
+tiktokv.com.edgekey.net @!cn
+tiktokv.com.edgesuite.net @!cn
 full:p16-tiktokcdn-com.akamaized.net @!cn
+full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com @!cn
 full:roovza-launches.appsflyersdk.com @!cn
 full:roovza.inapps.appsflyersdk.com @!cn
 full:roovza.launches.appsflyersdk.com @!cn
 full:roovza.skadsdk.appsflyersdk.com @!cn
+
+# Ads/tracking
+analytics.tiktok.com @ads

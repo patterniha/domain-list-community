@@ -1,28 +1,125 @@
-# Russian websites
-
-# Russian TLDs
-moscow
-tatar
-ru
-su
-xn--80adxhks
-xn--80asehdb
-xn--80aswg
-xn--c1avg
-xn--d1acj3b
-xn--p1acf
-xn--p1ai
-
+include:tld-ru
 ru.com
 ru.net
 
-include:category-gov-ru
+# - There is `[domain:]ru` in this list (from tld-ru), which matches all `*.ru` domains
+# - Redundant subdomains (full/domain type without attr) will be trimed by main.go
+#   In this list, `*.ru` domains without attr are redundant for the program and will not contribute to `geosite:category-ru`
+# - You can still add `*.ru` domains here if you want
 
-include:habr
+# Subcategories
+include:category-ai-ru
+include:category-betting-ru
+include:category-ecommerce-ru
+include:category-education-ru
+include:category-entertainment-ru
+include:category-forums-ru
+include:category-gov-ru
+include:category-media-ru
+include:category-medicine-ru
+include:category-retail-ru
+include:category-tech-media-ru
+include:category-travel-ru
+
+# Russian companies
+include:beget
+include:carrotquest
+include:cdek
+include:comssone
+include:drweb
+include:envybox
+include:genotek-ru
+include:gismeteo
+include:group-ib
+include:headhunter
+include:ideco-ru
+include:kaspersky
+include:kontur
+# Not include:habr #3087
+# Not include:livejournal #3715
 include:mailru-group
-include:okko
-include:ozon
-include:rutube
-include:wink
-include:x5
+include:mindbox
+include:myoffice-ru
+include:netcraze
+include:nic-ru
+include:positive-technologies
+include:regru
+include:selectel
+include:servicepipe
+include:skyeng
+include:tilda
+include:timeweb
+include:ucoz
+include:whoosh
 include:yandex
+
+# Bank & Finance & Insurance & Securities
+include:category-bank-ru
+## Credit History Bureaus
+credistory.ru
+nbki.ru
+## Currency and stock exchanges
+moex.com   # Moscow Stock Exchange
+spvb.ru    # Saint-Petersburg Stock Exchange
+## Card & Document delivery
+efin.ru
+## Financial marketplace
+banki.ru
+finuslugi.ru
+## Investment
+sistema-capital.com
+## Mir payment system
+mironline.ru
+mirpayonline.ru
+## National Payment Card System
+nspk.ru
+## Tipping service
+netmonet.co
+tips.tips
+
+# Telecom operators
+include:megafon
+include:mts-ru
+include:rostelecom
+include:t2-ru
+adygtelecom.com    # Adygea Telephone Company, regional operator
+beeline.ru
+dom.ru
+mcc250.pub.3gppnetwork.org # Mobile IMS
+
+# Other services
+3ebra.net          # Zebra Net Bureau, web development agency
+apptrackpets.com   # Pet GPS tracker service (Yandex Cloud, reg.ru)
+flomni.com         # Omnichannel communications platform
+foto-planeta.com   # Photo encyclopedia of settlements
+gazfond-pn.ru      # Non-state pension fund GAZFOND pension savings
+litres.ru          # E-book and audiobook service
+meteoinfo.ru       # Hydrometeorological Center of Russia
+ngenix.net         # NGENIX is a Russian provider of acceleration and security services for public web resources
+nplus1.ru          # N+1, popular science magazine
+ognihome.com       # OGNI HOME resident portal
+pochta.ru          # Russian post
+ponyexpress.ru     # Courier delivery service
+qms.ru             # Russian internet speed testing service
+randomgodbot.com   # Telegram randomizer bot
+srv-hub.org        # Website buider
+t1.cloud           # Russian cloud storage provider
+taxsee.com         # Taxi for business (self-employed drivers)
+vimu.tv            # Vimu Media Player
+yourgood.app       # CRM for small business
+
+## eXpress corporate messenger
+corp.express
+express.ms
+public.express
+xlnk.ms
+
+## Russian 2FA/MFA provider
+mfa.center
+multifactor.ru
+
+## Ads and tracking
+adriver.ru @ads
+flocktory.com @ads
+roistat.com @ads
+targetads.io @ads

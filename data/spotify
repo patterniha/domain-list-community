@@ -1,17 +1,19 @@
 byspotify.com
+lifeatspotify.com
 pscdn.co
 scdn.co
 spoti.fi
 spotify-everywhere.com
 spotify.com
 spotify.design
+spotify.link
 spotifycdn.com
 spotifycdn.net
 spotifycharts.com
 spotifycodes.com
 spotifyforbrands.com
+spotifyforvendors.com
 spotifyjobs.com
-spotify.link
 tospotify.com
 
 full:audio-ak-spotify-com.akamaized.net
@@ -22,3 +24,8 @@ full:heads4-ak-spotify-com.akamaized.net
 full:spotify.com.edgesuite.net
 full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net
+
+# Ads/tracking
+full:adeventtracker.spotify.com @ads
+full:adstudio-assets.scdn.co @ads
+full:bloodhound.spotify.com @ads

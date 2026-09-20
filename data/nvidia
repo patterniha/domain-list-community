@@ -1,3 +1,5 @@
+include:huggingface
+
 geforce.cn @cn
 geforce.co.kr
 geforce.co.uk
@@ -59,6 +61,7 @@ tegrazone.com
 tegrazone.jp
 tegrazone.kr
 
+full:nvidia.custhelp.com
 full:nvidia.tt.omtrdc.net
 
 # NVIDIA 文件下载服务器中国镜像

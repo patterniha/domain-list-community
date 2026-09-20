@@ -1,14 +1,12 @@
 include:qcloud #腾讯云
-include:tencent-ads
+include:sogou
 include:tencent-dev
 include:tencent-games
+include:tencent-tme
 include:yuewen
 
-# qq.中国
-qq.xn--fiqs8s
-
-# 腾讯.中国
-xn--r70as2s.xn--fiqs8s
+qq.xn--fiqs8s # qq.中国
+xn--r70as2s.xn--fiqs8s # 腾讯.中国
 
 acimg.cn
 apcdns.net
@@ -19,6 +17,7 @@ gtimg.com
 gtimg.com.cn
 idqqimg.com
 imqq.com
+iot-tencent.com
 myapp.com
 qlivecdn.com
 qlogo.cn
@@ -38,18 +37,29 @@ tencent.com.cn
 tencent.com.hk @!cn
 tencent.net
 tencent.net.cn
-tencentmusic.com
+tencentmiying.com
+tengmed.com
 tenpay.com
 tfogc.com
 wechat.com
 wechatpay.cn
+weishi.com
+weixin.com
+weixinsxy.com
 weiyun.com
-wetv.vip @!cn
-wetvinfo.com @!cn
 wxcloudrun.com
 wxgateway.com
 wxlivecdn.com
 
+# Short URL
+mmbizurl.cn
+url.cn
+wxaurl.cn
+wxmpurl.cn
+
+# 腾讯视频海外版
+wetv.vip @!cn
+wetvinfo.com @!cn
 full:wetv.qq.com @!cn
 
 alloyteam.com
@@ -79,3 +89,65 @@ fymallqa3.com
 fymallqa4.com
 fymallqa7.com
 fymallqa9.com
+
+tdnsdl1.cn
+tdnsdl1.com.cn
+tdnsdl2.cn
+tdnsdl2.com.cn
+tdnsdl3.cn
+tdnsdl3.com.cn
+tdnsdl4.cn
+tdnsdl4.com.cn
+tdnsdl5.cn
+tdnsdl5.com.cn
+
+# Ads/tracking
+ad.browser.qq.com @ads
+ad.qq.com @ads
+ad.qun.qq.com @ads
+ad.weixin.qq.com @ads
+adfilter.imtt.qq.com @ads
+adnet.qq.com @ads
+adping.qq.com @ads
+adpm.app.qq.com @ads
+adsclick.qq.com @ads
+adsfile.qq.com @ads
+adshmmsg.qq.com @ads
+adslvfile.qq.com @ads
+adslvseed.qq.com @ads
+adsmind.apdcdn.tc.qq.com @ads
+adsqqclick.qq.com @ads
+adstestview.qq.com @ads
+adsview.qq.com @ads
+adsview2.qq.com @ads
+adv.app.qq.com @ads
+adver.qq.com @ads
+beacon.cdn.qq.com @ads
+beacon.qq.com @ads
+beaconcdn.qq.com @ads
+btrace.qq.com @ads
+bugly.qq.com @ads
+e.qq.com @ads
+gdt.qq.com @ads
+hq-tracking.qq.com @ads
+htrace.wetvinfo.com @ads
+isdspeed.qq.com @ads
+log.tbs.qq.com @ads
+mdt.qq.com @ads
+monitor.uu.qq.com @ads
+mpush.qq.com @ads
+mtrace.qq.com @ads
+pgdt.gtimg.cn @ads
+pingjs.qq.com @ads
+pmir.3g.qq.com @ads
+push.qq.com @ads
+qqdata.ab.qq.com @ads
+report.qqweb.qq.com @ads
+rmonitor.qq.com @ads
+sngmta.qq.com @ads
+tajs.qq.com @ads
+tcss.qq.com @ads
+tpstelemetry.tencent.com @ads
+trace.qq.com @ads
+ugdtimg.com @ads
+wit.qq.com @ads
